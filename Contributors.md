@@ -1,6 +1,5 @@
 # Contributors
 - [Albino Cianciotti](https://github.com/albino98)
-- [Hironmoy Dhar](https://github.com/hironmoy05)
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
